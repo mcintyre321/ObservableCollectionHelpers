@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>ObservableCollectionHelpers</title>
+    <authors>Harry McIntyre</authors>
+    <owners>Harry McIntyre</owners>
+    <licenseUrl>https://github.com/mcintyre321/ObservableCollectionHelpers/blob/master/License.txt</licenseUrl>
+    <projectUrl>https://github.com/mcintyre321/ObservableCollectionHelpers</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      Helpers for subscribing to observable collection events
+    </description>
+    <copyright>Copyright 2015</copyright>
+    <tags>JSON Diff Patch,RFC 6902</tags>
+  </metadata>
+</package>
